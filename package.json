@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "checker": "node bot-checker.js",
+    "statistic" : "node bot-statistik.js"
   },
   "dependencies": {
     "axios": "^1.6.8",
